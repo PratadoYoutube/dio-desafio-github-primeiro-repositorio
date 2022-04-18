@@ -1,0 +1,59 @@
+Quais são as vantagens de ter um perfil no GitHub?
+
+Desenvolver um bom portfólio
+Um dos maiores benefícios sem dúvidas é ter um bom portfólio de projetos e aplicações. Ao ter essas informações abertas e dispostas para todos, você pode utilizar isso como uma forma de mostrar aos recrutadores o quanto você estuda e colabora com a comunidade em soluções práticas. Assim, demonstra o seu domínio do assunto em questão.
+
+Não é incomum hoje que contratadores peçam para checar o perfil do git do desenvolvedor. Por isso, saber usar a ferramenta e ser ativo nela é extremamente importante para obter destaque competitivo na sua carreira.
+
+Aprender com projetos
+Outra possibilidade fundamental é a cultura de aprendizado com projetos e com problemas práticos. No mundo da programação, não basta somente saber os conceitos, conhecer as regras de linguagens, bibliotecas etc. O que ajuda muito é se envolver em situações reais e criar soluções verdadeiras para essas situações.
+
+Ou seja, ao ser ativo no GitHub, você tem a chance de se desenvolver como profissional e aprender mais sobre programação para o dia a dia. Para isso, você pode escolher contribuir com repositórios de outras pessoas, desenvolver suas próprias ideias ou programar em desafios prontos de cursos e de sites na internet. As oportunidades são inúmeras.
+
+Colaborar com outros desenvolvedores
+Um aspecto seminal do GitHub é a colaboração. Nele, diversos programadores conseguem contribuir com projetos de outras pessoas e até solucionar problemas delas, mesmo sem nem conhecer os donos dos repositórios. Assim, você aprende um valor importante no mundo da programação: o de ser e atuar como parte de uma comunidade.
+
+Aprender a trabalhar em equipe
+O GitHub também é perfeito para pessoas aprenderem a trabalhar em equipe. Se você começa um projeto lá com seus amigos, por exemplo, vai entendendo a dinâmica de desenvolver algo em conjunto, com soluções e ideias diferentes em contato. Ao compreender bem como isso funciona em um cenário de aprendizado, o programador se prepara melhor para uma necessidade profissional de trabalho em grupo.
+
+Provavelmente na empresa em que for trabalhar, você precisará cooperar com outras pessoas e trabalhar com o GitHub nesse sentido. Então, já terá uma boa experiência.
+
+Entender o código de projetos abertos
+Além de permitir contribuir ativamente com softwares abertos, o GitHub é interessante como um repositório que deixa claro para todos como um sistema foi desenvolvido. É possível conferir os arquivos e entender a lógica que foi usada e como aquele problema foi solucionado. Isso é muito útil quando você precisa entender algum software antes de usá-lo, por exemplo.
+
+Com as possibilidades de visualização e gestão de arquivos, é possível trafegar pelas pastas do projeto e assimilar o máximo possível do que foi feito para aplicar ideias similares em suas aplicações.
+
+Controlar mudanças e versão
+O que já citamos como uma funcionalidade é também uma das grandes vantagens dessa ferramenta.
+
+O GitHub permite gerenciar mudanças de forma organizada e clara, sendo que as alterações são feitas sem grandes transtornos e conflitos. Além disso, é possível desenvolver e contribuir com um sistema em desenvolvimento em qualquer máquina, já que os registros ficam hospedados online.
+
+Como vimos, a gestão de mudanças é essencial para que todos permaneçam devidamente sincronizados com as alterações. Em projetos grandes, isso é útil.
+
+Caso algo aconteça de errado, a solução de recuperação de desastres é o controle de versão, ou seja, a capacidade de voltar a uma versão não corrompida ou afetada por aquele problema.
+
+Editar rapidamente o código
+Outra vantagem interessante do GitHub é a possibilidade de editar o código de forma rápida e intuitiva diretamente do site. Ou seja, é possível realizar alterações simples e breves em determinados arquivos na própria plataforma, sem precisar trazer para a sua máquina localmente e fazer commit.
+
+Ademais, dá para editar também os comentários, reescrevê-los e melhorá-los para otimizar a visibilidade do projeto como um todo e facilitar a compreensão de todos os envolvidos.
+
+Documentar de forma visível e transparente
+Um software precisa de uma documentação para esclarecer as escolhas feitas e explicar a lógica utilizada, os problemas e outras questões. A documentação é sobretudo uma forma de registrar o desenvolvimento para que outras pessoas acessem e entendam — é um aspecto que reforça o caráter colaborativo e comunitário da área.
+
+Outro ponto positivo do GitHub é que ele viabiliza a criação de uma documentação organizada para cada sistema. Você consegue deixar suas decisões devidamente registradas para ajudar outras pessoas que forem alterar ou clonar a aplicação. Com a documentação visível e transparente, fica fácil entender e até replicar o que foi feito.
+
+Quando falamos de projetos científicos, voltados para o ambiente acadêmico, esse controle é crucial. Ao entregar um produto como resultado de pesquisa, por exemplo, é fundamental criar uma documentação explicando o que foi feito e possibilitando a transmissão do conhecimento.
+
+Criar lista de tarefas
+Outra funcionalidade e vantagem para a gestão de projetos é a criação de tarefas a serem realizadas. É possível ter o controle das atividades que devem ser feitas, de modo que se estabeleça um cronograma e um roteiro de ações para chegar ao resultado final esperado. Isso é fundamental para a administração de aplicações que envolvem muitos programadores.
+
+Nesse sentido, destaca-se a possibilidade de gerar boards de tarefas que ajudam na visualização das obrigações gerais dos membros, algo semelhante à visualização Kanban de ferramentas como o Trello.
+
+Assim, garante-se que nada será esquecido e que as funções serão desempenhadas como se espera. É, sobretudo, uma forma de garantir que os requisitos sejam alcançados e que o software seja criado de forma segura e consistente.
+
+Ou seja, além de ser uma importante ferramenta para armazenar código de sistemas, permitir colaboração e controle de versão, o GitHub também é uma plataforma poderosa para gestão direta de projetos, bem como delegação de funções e divisão de papéis.
+
+O GitHub é uma ferramenta útil para controle de projetos e para o autodesenvolvimento de todas as pessoas que trabalham com programação. Assim, é fundamental entender os comandos e as técnicas que envolvem o envio de alterações, o controle de repositórios e a sincronização, pois, dessa forma, você obterá o melhor dessa aplicação para desenvolver seus sistemas de forma segura.
+
+Para conseguir boas oportunidades com programação web e crescer na carreira, confira as vagas que temos para freelancers em nosso banco de talentos.
+

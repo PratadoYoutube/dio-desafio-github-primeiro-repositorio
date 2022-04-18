@@ -1,0 +1,48 @@
+Quais são as terminologias mais importantes?
+
+Repositório
+O repositório é um termo geral para o local onde arquivos, versões e cópias serão armazenados. Ele permite salvar documentos em formato de texto, de imagem, de vídeo e outros. É como um conjunto de pastas.
+
+Fork
+Trata-se de um método para copiar um projeto salvo na plataforma online para uma determinada máquina a fim de continuar o trabalho na aplicação remota. É muito útil quando desenvolvedores externos resolvem contribuir com aplicações abertas. Para ter acesso a todos os dados, eles fazem um fork.
+
+Clone
+O clone é uma ferramenta similar que permite trabalhar em um projeto disposto em um endereço web.
+
+Branch
+Para lidar com sua parte do sistema e realizar alterações, o desenvolvedor cria uma branch, que é como uma ramificação. Pensando em árvores como uma analogia, os ramos criados geram uma versão diferente que não afeta a original. Ou seja, a branch criada funciona em paralelo com o projeto principal.
+
+Merge
+Para finalmente adicionar as mudanças, o programador deve fazer o “merge”. O comando adiciona as branches ao repositório original, efetivando o que foi feito como parte principal da aplicação.
+
+Pull Request
+É um pedido de revisão de alguém que contribuiu com um projeto aberto, ainda com uma branch.
+
+Commit
+O commit é um comando extremamente importante que veremos em ação no próximo tópico. Trata-se de uma ação para enviar mudanças para um repositório na central do hub. Uma vez que você já está com a pasta da aplicação atualizada, pode utilizar esse termo-chave para salvar suas alterações no devido projeto e possibilitar que todos vejam.
+
+O comando requer ainda uma mensagem indicando exatamente quais as mudanças que foram feitas. Em um repositório muito grande, isso é útil para esclarecer aos desenvolvedores o que foi alterado sem que isso prejudique o fluxo de ninguém.
+
+Status
+O Status é outro importante termo no universo da programação no GitHub. Consiste em uma ação que busca as mudanças realizadas que ainda não foram enviadas por commit ou não estão sendo monitoradas pelo git. Assim, permite que você se organize de fato para saber o que será enviado.
+
+Como criar um repositório?
+Então, vamos finalmente às dicas de como fazer um repositório no GitHub para que você consiga trabalhar em projetos reais.
+
+Primeiro, acesse o site da plataforma e faça login. Em seguida, procure a opção “new repository”. Digite o nome e a descrição desse novo projeto que você quer criar. Pode ser o nome do produto com clareza para que seja possível distinguir de outros softwares que estiver programando.
+
+Então, você deve se dirigir ao terminal do seu computador ou ao git bash. Lá, abra a pasta dos arquivos que se quer submeter ao site. Então, digite “git init”.
+
+
+Depois, faça a configuração do endereço de seu repositório com o “git remote add”. Depois do add, digite o nome do repositório e informe o link do repositório no site.
+
+
+Com isso feito, você pode seguir para o “git status”, que confere o que foi mudado recentemente.
+
+
+Então, com um “git add .”, você prepara todos esses arquivos para o envio. Para efetivamente fazer isso, use “git commit” e escreva uma breve mensagem que resume aquela alteração.
+
+
+E depois: “git push -u origin master”.
+
+
